@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+body {
+    padding: 70px 130px 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(239, 240, 241);
+    
+}
+
+.navbar ul {
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 5px;
+    list-style: none;
+   
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    padding: 2em 1em;
+    color: rgb(4, 250, 4);
+}
+
+.navbar ul li a:hover {
+    color: rgb(5, 101, 5);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+}
+
+.text {
+    width: 620px;
+    height: 200px;
+   
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    margin-left: 20px; /* Ajuste conforme necessário para dar espaço entre o texto e a imagem */
+}
+
+h1,h2,h3{
+    font-size: 35px;
+}
+footer{
+    
+    background-color:rgb(4, 250, 4); 
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    margin-top: 9%;
+}
+
+footer ul{
+    list-style: none;
+}
